@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to right, #1533AD, #0B5FA5, #0776A0);
+    font-size: 35px;
+    padding: 15px;
+}
+
+
+header a {
+    color: MediumSlateBlue;
+    text-decoration: none;
+}
+
+.name {
+    color: #008000;
+    text-shadow: 5px 5px 5px #00CC00,
+                 5px 5px 5px #0B5FA5,
+                 5px 5px 5px #0776A0;
+    left: 250px;
+    position: relative;            
+}
+
+
+footer {
+    background-image: linear-gradient(to right, #1533AD, #0B5FA5, #0776A0);
+    font-size: 35px;
+    padding: 15px;
+}
+
+.top{
+    text-decoration: none;
+    color: MediumSlateBlue;
+    background-image: linear-gradient(to right, #1533AD, #0B5FA5, #0776A0);
+    width: 100px;
+    position: relative;
+    left: 360px;
+    font-size: 25px;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+
+.pict{
+    margin-top: 45px;
+}
+
+
+.mch{
+   margin-left: 100px;
+   margin-right: 60px; 
+}
+
+.text-big {
+    font-size: 20px;
+    left: 130px;
+    position: relative;
+}
+
+.ssilka a {
+    text-decoration: none;
+    color: MediumSlateBlue;
+    font-size: 20px;
+    border-bottom: 2px dashed MediumSlateBlue;
+}
